@@ -1,0 +1,8 @@
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\bin\Debug\Example_1.2.exe.config
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\bin\Debug\Example_1.2.exe
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\bin\Debug\Example_1.2.pdb
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\obj\Debug\Example_1.2.csproj.AssemblyReference.cache
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\obj\Debug\Example_1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\obj\Debug\Example_1.2.csproj.CoreCompileInputs.cache
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\obj\Debug\Example_1.2.exe
+C:\Users\romah\source\repos\Example_1.2\Example_1.2\obj\Debug\Example_1.2.pdb
